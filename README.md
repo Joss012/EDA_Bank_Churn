@@ -52,10 +52,10 @@ The purpose of this project is to analyze churn trends for the bank and identify
 	- 100,000-124,999:  ``26.9%``&emsp;&emsp;	                        225,000 and above:	``100.0%``
 
 7. What is the **churn rate between customers who have a different number of products**?
-    1. ``27.7%``
-	2. ``7.6%``
-	3. ``82.7%``
-	4. ``100.0%``
+    - 1: ``27.7%``
+	- 2: ``7.6%``
+	- 3: ``82.7%``
+	- 4: ``100.0%``
 
 8. What is the **churn rate between customers who do and don't have a credit card**?
     - DO: 	 ``20.2%``
@@ -76,13 +76,13 @@ The purpose of this project is to analyze churn trends for the bank and identify
 	- HAVE NOT: ``0.05%``
 
 12. What is the **churn rate between customers who have a different satisfaction scores(1-5)**?
-    1. ``20.03%``
-	2. ``21.8%``
-    3. ``19.6%``
-	4. ``20.6%``
-	5. ``19.8%``
+    - 1: ``20.03%``
+	- 2: ``21.8%``
+    - 3: ``19.6%``
+	- 4: ``20.6%``
+	- 5: ``19.8%``
 
-13. What is the **churn rate between customers who have a different card types**?
+13. What is the **churn rate between customers who have different card types**?
     - Diamond:  ``21.8%``
 	- Platinum: ``20.4%``
 	- Gold: 	``19.3%``
@@ -97,4 +97,4 @@ The purpose of this project is to analyze churn trends for the bank and identify
 
 ## Summary
 
-Based on the analysis, we can conclude that the features with the highest impact on the banks churn rate are: ``Geography``, ``Gender``, ``Age``, ``Balance``, ``Number of Products``, ``Activity Status``, and ``Complaint Status``. 
+Based on the analysis, we can conclude that the features with the highest impact on the bank's churn rate are: ``Geography``, ``Gender``, ``Age``, ``Balance``, ``Number of Products``, ``Activity Status``, and ``Complaint Status``. 
