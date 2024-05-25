@@ -66,7 +66,7 @@ The purpose of this project is to analyze churn trends for the bank and identify
 	- NOT ACTIVE: ``26.9%``
 
 10. What is the **churn rate between different Salary groups($)**?
-    - 0-25,000:       ``19.9%``&emsp;	100,001-125,000: ``20.1%``
+    - 0-25,000:       ``19.9%``&emsp;&emsp;&emsp;	100,001-125,000: ``20.1%``
 	- 25,001-50,000:  ``19.9%``&emsp;	125,001-150,000: ``20.4%``
 	- 50,001-75,000:  ``20.9%``&emsp;	150,001-175,000: ``21.3%``
 	- 75,001-100,000: ``18.8%``&emsp;	175,001-200,000: ``21.7%``
